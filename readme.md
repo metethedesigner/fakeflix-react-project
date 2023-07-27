@@ -12,7 +12,7 @@ Live Demo Link:
 
 ## Tools used
 
-1. React: To create the Single Page App
+1. React: To create the App
 2. React-Router: For Routing
 3. Redux ToolKit: For State Management
 4. TMDB API: As a Movie Database
