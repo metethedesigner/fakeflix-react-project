@@ -4,7 +4,7 @@ A project where you can access all the information about movies.
 
 ## Demo
 
-Live Demo Link:
+Live Demo Link: https://fakeflix-react-project.vercel.app
 
 <div align="center">
     <img src="./readme_img/preview.png" style="width: 640px" />
@@ -15,9 +15,10 @@ Live Demo Link:
 1. React: To create the App
 2. React-Router: For Routing
 3. Redux ToolKit: For State Management
-4. TMDB API: As a Movie Database
-5. Vite: For Instant Server Start
-6. SCSS: For Everything Related to Design
+4. React Lazy Load Image: To speed up the page loading time
+5. TMDB API: As a Movie Database
+6. Vite: For Instant Server Start
+7. SCSS: For Everything Related to Design
 
 ## How to Use
 
